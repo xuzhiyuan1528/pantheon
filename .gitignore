@@ -128,3 +128,6 @@ Session.vim
 
 # Auto-generated tag files
 tags
+
+runs
+.vscode

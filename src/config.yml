@@ -1,4 +1,20 @@
 schemes:
+  aurora:
+    name: Aurora
+    color: olive
+    marker: '>'
+  iml:
+    name: IML
+    color: silver
+    marker: 'h'
+  sbbr:
+    name: Syn-BBR
+    color: gray
+    marker: 'd'
+  eagle:
+    name: Eagle
+    color: green
+    marker: '<'
   cubic:
     name: TCP Cubic
     color: black
